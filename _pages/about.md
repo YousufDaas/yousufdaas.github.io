@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a PhD candidate in Economics at the Graduate School of International 
 Cooperation Studies, Kobe University, Japan (expected September 2026), 
@@ -22,3 +30,7 @@ focus on Palestine and comparative work in Sub-Saharan Africa and South Asia.
 - MA in Economics, Kobe University, Japan (2023)
 - MSc in Anthropology and Development Studies, KU Leuven, Belgium (2019)
 - BA in Education (English Language), QOU, Palestine (2016)
+
+## Contact
+Email: yousuf.2005d@gmail.com
+----
