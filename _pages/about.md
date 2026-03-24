@@ -33,4 +33,3 @@ focus on Palestine and comparative work in Sub-Saharan Africa and South Asia.
 
 ## Contact
 Email: yousuf.2005d@gmail.com
-----
