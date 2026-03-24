@@ -125,6 +125,17 @@ alexa_site_verification  :
 yandex_site_verification :
 
 
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/YousufDaas"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yousufbdaas"
+
+
 # Social Sharing
 twitter:
   username               : &twitter
