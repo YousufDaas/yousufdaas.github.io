@@ -1,6 +1,4 @@
 
----
-
 I am a PhD candidate in Economics at the Graduate School of International 
 Cooperation Studies, Kobe University, Japan (expected September 2026), 
 supported by a MEXT scholarship.
@@ -24,5 +22,3 @@ focus on Palestine and comparative work in Sub-Saharan Africa and South Asia.
 - MA in Economics, Kobe University, Japan (2023)
 - MSc in Anthropology and Development Studies, KU Leuven, Belgium (2019)
 - BA in Education (English Language), QOU, Palestine (2016)
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
