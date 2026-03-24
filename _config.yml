@@ -23,7 +23,7 @@ repository               : "YousufDaas/yousufdaas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/AAA.jpg"
+  avatar           : "profile.png"
   name             : "Yousuf Daas"
   pronouns         : # example: "she/her"  
   bio              : "Yousuf Daas is a PhD candidate at the Graduate School of International Cooperation Studies, Kobe University, Japan (expected September 2026). He holds an MA in Economics from Kobe University and an MSc in Anthropology and Development Studies from KU Leuven, Belgium. His research applies quasi-experimental methods—including difference-in-differences, instrumental variables, and panel fixed-effects estimation—to examine how compounding shocks such as conflict, climate change, and economic isolation shape labor market outcomes, human capital formation, and household welfare in fragile and developing economies, with a primary focus on Palestine and comparative work in Sub-Saharan Africa and South Asia. His work has been published in peer-reviewed journals including Journal of Labor and Society, International Review of Applied Economics, Climate Change Economics, Forum for Social Economics, and Children and Youth Services Review."
